@@ -32,19 +32,6 @@ Selain rekonstruksi, diterapkan juga **sharpening filter** berbasis kernel konvo
 
 ---
 
-## 📊 Contoh Hasil
-
-| Original Frame | Reconstructed + Sharpened |
-|:---------------|:---------------------------|
-| ![Input](results/input_epoch1_img0.png) | ![Output](results/output_epoch1_img0.png) |
-
----
-
-## 📂 Struktur Proyek
-
-
----
-
 ## 📚 Dataset
 
 Dataset digunakan dari Kaggle:
